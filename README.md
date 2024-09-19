@@ -1,7 +1,6 @@
-> [!IMPORTANT]
-> Em criação.
+> [!IMPORTANT] > _Em criação_.
 
-# DIO | Versionamento de Código com Git e GitHub
+# DIO | _Versionamento de Código com Git e GitHub_
 
 Este repositório contém arquivos e resumos do curso de Versionamento de Código com Git e GitHub da [Digital Innovation One](https://web.dio.me/)
 
@@ -24,6 +23,7 @@ Este repositório contém arquivos e resumos do curso de Versionamento de Códig
 git init
 
 ```
+
 ## 🔎 Referências
 
 - Lorem ipsum dolor sit amet consectetur adipisicing elit.
