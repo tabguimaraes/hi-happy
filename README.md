@@ -1,4 +1,4 @@
-> [!IMPORTANT] > _Em criação_.
+> [!IMPORTANT] > _Em construção._
 
 # DIO | _Versionamento de Código com Git e GitHub_
 
